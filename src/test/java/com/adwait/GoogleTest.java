@@ -1,4 +1,4 @@
-package com.zaid;
+package com.adwait;
 
 import org.junit.jupiter.api.Test;
 import org.openqa.selenium.WebDriver;
